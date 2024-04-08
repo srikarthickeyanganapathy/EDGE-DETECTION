@@ -26,8 +26,8 @@ Display the filtered image using plot and imshow.
 ## Program:
 
 ```
-DEVELOPED BY: S JAIGANESH
-REG NO : 212222240037
+DEVELOPED BY: SRI KARTHICKEYAN GANAPATHY
+REG NO : 212222240102
 ```
 # Import the packages
 ```
